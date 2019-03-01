@@ -17,6 +17,9 @@ class Contato extends Component {
                   <Input  s={12} label="Nome" />
                   <Input type="email" label="Email" s={12} />
                   <Input type='textarea' placeholder="Digite sua mensagem" />
+                  <Link to="/">
+			 	    <Button waves='light' className="deep-purple darken-4">enviar</Button>
+			     </Link>
              </Row>
 
 			</div>
