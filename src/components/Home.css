@@ -1,0 +1,44 @@
+.text-banner {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	height: 500px;
+	margin-bottom: 0;
+}
+
+.row {
+	margin-bottom: 0;
+}
+
+
+.banner {
+	background-image: url(01.jpg);
+	height: 400px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.banner2 {
+	background-image: url(02.jpg);
+	height: 400px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.banner3 {
+	background-image: url(02.jpg);
+	height: 400px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
